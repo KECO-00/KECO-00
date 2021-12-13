@@ -4,11 +4,7 @@
 <div align="center">
 
   
-  <h4> :arrow_down:My Algorithm Level </h4>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=keco00)](https://solved.ac/keco00)
-
-</p>
 
   <h3> Studying 💻</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>
