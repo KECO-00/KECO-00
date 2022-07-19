@@ -6,9 +6,6 @@
 
  </br>
 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=KECO00)](https://solved.ac/KECO00)
-  
-
   <h3> Studying 💻</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
