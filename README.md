@@ -35,7 +35,7 @@
 
   <h3> Contact 💬</h3>
 
-    <a href="mailto:ksang98@icloud.com">
+   <a href="mailto:ksang98@icloud.com">
       <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 
