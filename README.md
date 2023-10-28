@@ -28,13 +28,6 @@
 </br></br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KECO-00&show_icons=true&theme=nord)
-
-  <h3> Contact 💬</h3>
-
-   <a href="mailto:ksang98@icloud.com">
-      <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
 
   
   
