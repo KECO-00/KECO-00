@@ -1,4 +1,6 @@
-![image](https://github.com/KECO-00/KECO-00/assets/64177079/f6436977-4ba0-4ba4-991b-c1725fa415a5)### Hi there 👋
+### 안녕하세요! 프론트엔드 개발자 김상연입니다.
+
+<hr/>
 
 <div align="center">
  
@@ -6,7 +8,7 @@
 
  </br>
 
-  <h3> 기술 스택 💻</h3>
+  <h3> 💻 기술 스택 </h3>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" height="30"/> 
